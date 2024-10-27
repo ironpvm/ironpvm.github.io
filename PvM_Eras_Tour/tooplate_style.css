@@ -712,3 +712,9 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 .footer_link li .vimeo { 
 	background: url(images/vimeo.png) left center no-repeat; 
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
